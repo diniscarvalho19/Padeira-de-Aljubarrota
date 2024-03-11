@@ -1,0 +1,16 @@
+head {
+    margin: auto;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    height: 100%;
+}
+
+iframe{
+    margin: auto;
+    padding: 0;
+}
