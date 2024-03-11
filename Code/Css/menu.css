@@ -14,7 +14,7 @@ menu button
 body{
     margin: auto;
     padding: 0;
-    background-image: url("../../resources/Sprites/Main Menu/background menu.png");
+    background-image: url("../../Resources/Sprites/Main Menu/background menu.png");
     background-repeat: no-repeat;
 }
 
